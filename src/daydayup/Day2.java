@@ -9,7 +9,7 @@ package daydayup;
  * ----      Description     ----
  * ----      Example         ----
  */
-public class Day1 {
+public class Day2 {
     public static void main(String[] args) {
         int[] arr = {0, 0, 1, 1, 1, 2, 2, 3, 3, 4};
         int size = removeDuplicates(arr);
